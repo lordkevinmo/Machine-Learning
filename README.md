@@ -1,5 +1,5 @@
 # Machine-Learning
-J'ai hébergé ici les projets que j'ai eu a effectué lors du cours d'introduction au machine learning de Andrew Ng via la plateforme Coursera. Lien du cours : https://www.coursera.org/learn/machine-learning
+J'ai hébergé ici les projets que j'ai eu a effectué lors du cours d'introduction au machine learning de Andrew Ng proposé par l'Université de Standford via la plateforme Coursera. Lien du cours : https://www.coursera.org/learn/machine-learning
 
 Le langage de programmation utilisé est MatLab/Octave.
 
