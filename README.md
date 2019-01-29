@@ -10,14 +10,14 @@ Le dépôt contient 8 répertoires nommés ex1 ... ex8.
 # ex1 - Projet sur la Régression Linéaire Simple (Simple Linear Regression or Linear Regression with One variable) et sur la Régression Linéaire Multiple (Multiple Linear Regression or Linear Regression with multiple variables)
 
 # Contexte : 
-1 . Supposons que vous soyez le PDG d'une franchise de restaurant et que vous envisagiez différentes villes pour ouvrir un nouveau point de vente. La chaîne a déjà des camions dans différentes villes et vous disposez de données sur les bénéfices et les populations des villes. Vous souhaitez utiliser ces données pour vous aider à sélectionner la ville à développer.
+1 .Supposons que vous soyez le PDG d'une franchise de restaurant et que vous envisagiez différentes villes pour ouvrir un nouveau point de vente. La chaîne a déjà des restaurants dans différentes villes et vous disposez de données sur les bénéfices et les populations des villes. Vous souhaitez utiliser ces données pour vous aider à sélectionner la ville à développer.
 
 2. Supposons que vous vendiez votre maison et que vous souhaitiez savoir quel serait le bon prix du marché. Une façon de procéder consiste à collecter d’abord des informations sur les maisons vendues récemment et à créer un modèle de prix de l’habitation.
 
 # Objectifs : 
 
 - Prédiction des prix d'une maison en fonction de sa surface en mètre carré (MLR)
-- Prédiction de la meilleure ville dans laquelle doit créer une filiale pour un chef de franchise en fonction de la population de la ville et des bénéfices.
+- Prédiction de la bonne ville à choisir par un chef de franchise pour la création d'une nouvelle filiale en fonction de la population de la ville et des bénéfices des habitants.
 
 
 # ex2 - Regression Logistique et régularisation (Logistic Regression and Regularization)
